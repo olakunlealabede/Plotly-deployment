@@ -39,3 +39,6 @@ After completing all the coding requirements, dashboard will look like this imag
 
 http://127.0.0.1:5500/data-12-5-1-resources/plotly-deployment/js/index.html
 
+Webpage deployment: https://olakunlealabede.github.io/plotly-deployment/
+
+
